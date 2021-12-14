@@ -1,6 +1,6 @@
 # RESTful-web-service using DOCKER container
 
-Created a Python RESTful services using Flask and use docker to run this application.                              
+Created a Python Restful webservices using Flask and use docker to run this application.                              
 First, docker need to be installed.
 
 ## Steps
