@@ -1,0 +1,269 @@
+{ 
+ "Hotels":[ 
+ { 
+        "id":"1",
+        "address":"58 village Road",
+        "address_line_2":"khammam",
+        "name":"Railway Hotel",
+        "rating":5,
+        "type_of_hotel":"Eco "
+      },
+      {  
+         "id":"2",
+         "address":"376 Rayleigh Road",
+         "address_line_2":"China",
+         "name":" Hai",
+         "rating":5,
+         "type_of_hotel":"Chain "
+      },
+      {  
+         "id":"3",
+         "address":"03 Greyhound Road ",
+         "address_line_2":"Dubai",
+         "name":"Arabian hotel",
+         "rating":4.5,
+         "type_of_hotel":"Motels"
+      },
+      {  
+         "id":"4",
+         "address":"30 Greyhound Road Hammersmith",
+         "address_line_2":"paris",
+         "name":"Thai hotel",
+         "rating":4.5,
+         "type_of_hotel":"Resorts"
+      },
+      {  
+         "id":"5",
+         "address":"9 Broughton Hall Road",
+         "address_line_2":"Broughton",
+         "name":" Indian.com",
+         "rating":4,
+         "type_of_hotel":"Inns"
+      },
+      {  
+         "id":"6",
+         "address":"6 Drummond Street",
+         "address_line_2":"Rotherham",
+         "name":"President Suite",
+         "rating":3,
+         "type_of_hotel":"All suites"
+      },
+      {  
+         "id":"7",
+         "address":"885 High Road Leytonstone",
+         "address_line_2":"London",
+         "name":"Hotel Trident",
+         "rating":5,
+         "type_of_hotel":"convention center"
+      },
+      {  
+         "id":"8",
+         "address":"885 High Road Leytonstone",
+         "address_line_2":"London",
+         "name":" Sparks Bar",
+         "rating":3,
+         "type_of_hotel":"Extended stay"
+      },
+      {  
+         "id":"9",
+         "address":"885 High Road Leytonstone",
+         "address_line_2":"London",
+         "name":" Wine Forever",
+         "rating":3,
+         "type_of_hotel":"Boutique"
+      },
+      {  
+         "id":"10",
+         "address":"Unit 4 Spencer House",
+         "address_line_2":"Swalwell",
+         "name":"1 2 3 Chinese",
+         "rating":4.5,
+         "type_of_hotel":"Bunkhouses"
+      },
+      {  
+         "id":"11",
+         "address":"Unit 4 Spencer House",
+         "address_line_2":"Swalwell",
+         "name":" Four Shots ",
+         "rating":4.5,
+         "type_of_hotel":"Bed and Breakfasts"
+      },
+      {  
+         "id":"12",
+         "address":"67 Park Street",
+         "address_line_2":"Treforest",
+         "name":"360 Angle ",
+         "rating":5,
+         "type_of_hotel":"Casino"
+      },
+      {  
+         "id":"13",
+         "address":"50 Wallgate",
+         "address_line_2":"Wigan",
+         "name":"Thousand dollars",
+         "rating":5,
+         "type_of_hotel":"Pop-up"
+      },
+      {  
+         "id":"14",
+         "address":"104 Tanners Lane",
+         "address_line_2":"Essex",
+         "name":"Turkish BBQ",
+         "rating":5,
+         "type_of_hotel":"Gastro"
+      },
+      {  
+         "id":"15",
+         "address":"109 Westbourne Park Road",
+         "address_line_2":"London",
+         "name":" Clove Garden",
+         "rating":5,
+         "type_of_hotel":"Gastro"
+      },
+      {  
+         "id":"16",
+         "address":"113 Poulton Road",
+         "address_line_2":"Merseyside",
+         "name":"Sai Narayana ",
+         "rating":4.5,
+         "type_of_hotel":"Echo"
+      },
+      {  
+         "id":"17",
+         "address":"133 Fullarton Street",
+         "address_line_2":"Irvine",
+         "name":" Straight Drive",
+         "rating":"Not yet rated",
+         "type_of_hotel":"Micro"
+      },
+      {  
+         "id":"18",
+         "address":"Red Lion Hotel",
+         "address_line_2":"Spalding",
+         "name":"The Spice Affair",
+         "rating":3.5,
+         "type_of_hotel":"Transit"
+      },
+      {  
+         "id":"19",
+         "address":"17 Alexandra Road",
+         "address_line_2":"West Yorkshire",
+         "name":"west coast ",
+         "rating":5.5,
+         "type_of_hotel":"Heritage"
+      },
+      {  
+         "id":"20",
+         "address":"Unit 2 30 Greenock Road",
+         "address_line_2":"Bishopton",
+         "name":"WTC ",
+         "rating":5,
+         "type_of_hotel":"Hostels"
+      },
+      {  
+         "id":"21",
+         "address":"160 Leeds Road",
+         "address_line_2":"Leeds",
+         "name":"Mansion House ",
+         "rating":4,
+         "type_of_hotel":"Luxury"
+      },
+      {  
+         "id":"22",
+         "address":"1 Walsall Road",
+         "address_line_2":"Cannock",
+         "name":"Best Choice ",
+         "rating":4,
+         "type_of_hotel":"Budget"
+      },
+      {  
+         "id":"23",
+         "address":"388 Filton Avenue",
+         "address_line_2":"Bristol",
+         "name":"Intermediate",
+         "rating":4.5,
+         "type_of_hotel":"Cheap"
+      },
+      {  
+         "id":"24",
+         "address":"388 Filton Avenue",
+         "address_line_2":"Bristol",
+         "name":" Engineering ",
+         "rating":4.5,
+         "type_of_hotel":"oyo"
+      },
+      {  
+         "id":"25",
+         "address":"70 Carter Lane",
+         "address_line_2":"Mansfield",
+         "name":" Novotel ",
+         "rating":4.5,
+         "type_of_hotel":"5 star"
+      },
+      {  
+         "id":"26",
+         "address":"470 Vernon Road",
+         "address_line_2":"Old Basford",
+         "name":" Expensive",
+         "rating":4,
+         "type_of_hotel":"fastfood"
+      },
+      {  
+         "id":"27",
+         "address":"137 Yorkshire Street",
+         "address_line_2":"Oldham",
+         "name":"Taj Banjara",
+         "rating":3.5,
+         "type_of_hotel":"4 star"
+      },
+      {  
+         "id":"28",
+         "address":"19 Regent Street",
+         "address_line_2":"Hinckley",
+         "name":" Zoyo Place",
+         "rating":5,
+         "type_of_hotel":"Dunkin Donut"
+      },
+      {  
+         "id":"29",
+         "address":"2 Station Approach",
+         "address_line_2":"Upminster",
+         "name":" Maldives",
+         "rating":5,
+         "type_of_hotel":"Carrot"
+      },
+      {  
+         "id":"30",
+         "address":"1776 Coventry Road",
+         "address_line_2":"Birmingham",
+         "name":"BeautifulS",
+         "rating":5,
+         "type_of_hotel":"Comfort"
+      },
+      {  
+         "id":"31",
+         "address":"317 Wilmslow Road",
+         "address_line_2":"Fallowfield",
+         "name":"33rd Street ",
+         "rating":5,
+         "type_of_hotel":"Beach resort"
+      },
+      {  
+         "id":"32",
+         "address":"317 Wilmslow Road",
+         "address_line_2":"Fallowfield",
+         "name":"The Edge ",
+         "rating":5,
+         "type_of_hotel":"Business"
+      },
+      {  
+         "id":"33",
+         "address":"107 King Richards Road",
+         "address_line_2":"Leicester",
+         "name":"Police Area ",
+         "rating":5,
+         "type_of_hotel":"Family"
+      }
+   ]
+}
+
