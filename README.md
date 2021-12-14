@@ -1,4 +1,4 @@
-# RESTful-web-service using DOCKER container
+# Restful-web-service using DOCKER container
 
 Created a Python Restful webservices using Flask and use docker to run this application.                              
 First, docker need to be installed.
@@ -15,9 +15,9 @@ First, docker need to be installed.
       docker run -d -p 5000:5000 flask-test-sample
       ```
 4.Now, app will run locally. i.e, if it is run on normal terminal, address will be localhost else docker ip address.                   
-  **GET request1**: Go to http://127.0.0.1:5000/gethotels/  to list all Hotels data.                               
-  **GET request2**: Go to http://127.0.0.1:5000/gethotels/notall/ for specific Hotels with id "22" (example: 22)         
-  **GET request3**: Go to http://192.168.99.100:5000/hotels/type/Eco/ for specific Hotels with  type "" (example: Eco)            
+  **GET request1**: Go to http://127.0.0.1:5000/gethotels/  to list all Hotels data.                              
+  **GET request2**: Go to http://127.0.0.1:5000/gethotel/18/ for specific Hotels with id "18" (example: 18)         
+  **GET request3**: Go to http://127.0.0.1:5000/gethotel/type/5/ for specific Hotels with  type "of highest rating" (example: 5)            
   
 ## COMMANDS (useful)
 1. List all images: *docker images*
