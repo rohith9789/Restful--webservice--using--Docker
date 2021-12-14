@@ -13,11 +13,11 @@ Build the docker image:
 docker build -t flask-test-sample .
 once the docker image is created, run the "flask-test-sample" in docker container
 
-docker run -d -p 5000:5000 flask-test-sample
+docker run -d -p 3000:3000 flask-test-sample
 4.Now, app will run locally. i.e, if it is run on normal terminal, address will be localhost else docker ip address.
-GET request1: Go to http://192.168.99.100:5000/getrestaurants/ to list all restaurants data.
-GET request2: Go to http://192.168.99.100:5000/getrestaurants/22/ for specific restaurant with id "22" (example: 22)
-GET request3: Go to http://192.168.99.100:5000/getrestaurants/type/pizza/ for specific restaurants with food type "Pizza" (example: pizza)
+GET request1: Go to   http://127.0.0.1:5000/gethotels/ to list of all the Hotels data.
+GET request2: Go to http://127.0.0.1:5000/gethotel/18/ for specific Hotel with id "18"
+GET request3: Go to http://127.0.0.1:5000/gethotel/type/5/ for specific hotels with highest rating"5" 
 
 COMMANDS (useful)
 List all images: docker images
